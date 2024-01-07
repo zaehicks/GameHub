@@ -8,19 +8,17 @@ Customizable Search: Tailor your search with our versatile NavBar component. You
 
 Genre Filtering: Dive into the world of genres with our GenreList component. Whether you're a fan of action, adventure, strategy, or any other genre, our website makes it easy to find games that fit your taste.
 
-Platform Selection: Catering to diverse gaming preferences, the PlatformSelector allows users to filter games based on their gaming platform. Whether you're a PC gamer, a console enthusiast, or a mobile gamer, GameHub has something for everyone.
+Platform Selection: Catering to diverse gaming preferences, the PlatformSelector allows users to filter games based on their gaming platform. Whether you're a PC gamer, a console enthusiast, or a mobile gamer, SkyDeck has something for everyone.
 
 Sorting Options: Organize your game discoveries with the SortSelector. Whether you prefer to see the latest releases first or the most popular titles, our sorting feature enhances your browsing experience.
 
-Responsive Design: GameHub is designed to be fully responsive, providing a seamless experience across all devices. Our grid layout adapts to different screen sizes, ensuring that you can enjoy our platform whether you're on a desktop, tablet, or mobile phone.
+Responsive Design: SkyDeck is designed to be fully responsive, providing a seamless experience across all devices. Our grid layout adapts to different screen sizes, ensuring that you can enjoy our platform whether you're on a desktop, tablet, or mobile phone.
 
-How It Works
-Our website is built using modern web development practices and technologies, including React and Chakra UI. The main App function houses the core layout, which dynamically adjusts based on the user's screen size.
+How It Works:
+SkyDeck is built using modern web development practices and technologies, including React and Chakra UI. The main App function houses the core layout, which dynamically adjusts based on the user's screen size.
 
 State Management: We use React's useState hook for managing the state of game queries, ensuring a responsive and interactive user experience.
 
-Component-Based Architecture: GameHub is built with reusability and modularity in mind. Components like GameGrid, GenreList, and PlatformSelector can be easily managed and updated, providing a flexible and maintainable codebase.
+Component-Based Architecture: SkyDeck is built with reusability and modularity in mind. Components like GameGrid, GenreList, and PlatformSelector can be easily managed and updated, providing a flexible and maintainable codebase.
 
-Getting Started
-To get started with GameHub, simply clone the repository and install the necessary dependencies. Our platform is straightforward to set up, ensuring that you can quickly dive into the world of gaming.
 
